@@ -25,4 +25,4 @@ And then finally the summary table:
 
 
 ## Summmary
-Overall, the the results show that EasyEnsembleClassifier is the best model to test the credit risk. It has good predictions as seen in the recall score. Since there is a high-risk profile with smaller proportion of the overall dataset, precision is necessary for model to e of use. None of these models should be recommneded to predict credit worthless. 
+Overall, the results show that EasyEnsembleClassifier is the best model to test the credit risk. It has good predictions as seen in the recall score. Since there is a high-risk profile with smaller proportion of the overall dataset, precision is necessary for model to be of use. None of these models should be recommneded to predict credit worthless. 
